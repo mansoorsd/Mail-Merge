@@ -1,5 +1,4 @@
 
-# TODO: Create a letter using starting_letter.txt
 
 
 lettr = open(".\Input\Letters\starting_letter.txt", mode="r" )
